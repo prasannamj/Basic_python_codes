@@ -79,3 +79,4 @@ if __name__ == "__main__":
     print("4        |  %s  " % order[4])
     print("5+       |  %s  " % (order[5] + order[6] + order[7] + order[31]))
     print()
+    print(123)
